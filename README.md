@@ -10,3 +10,4 @@ This is a React weather application as a pseudo coding challenge
 * Sign up for a free API key from [Open Weather Map](https://openweathermap.org/), to fetch a real 5-day forecast, and feed that data into your app
 * Real fancy? Add graphics library like [vx](https://vx-demo.now.sh/) and follow the examples to add a graph of the temperature over the course of the week
 
+![weatherApp UI](https://github.com/jkeane889/weatherApp/blob/master/assets/weatherAppDesgin.png "UI")
