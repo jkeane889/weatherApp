@@ -1,0 +1,5 @@
+.forecast {
+    display: grid;
+    grid-template-columns: repeat(8, 1fr);
+    justify-items: center;
+}

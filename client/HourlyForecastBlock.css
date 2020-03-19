@@ -1,0 +1,7 @@
+.hourlyForecast {
+    display: grid;
+    grid-template-rows: repeat(6, 1fr);
+    grid-gap: 5vw;
+    grid-auto-flow: column;
+    grid-auto-columns: auto;
+}
